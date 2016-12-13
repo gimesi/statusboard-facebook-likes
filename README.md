@@ -3,6 +3,9 @@ Show the number of likes of a Facebook page on your *Panic Status Board*. Becaus
 
 7 lines of php, 1 URL for you to adapt… and you're ready to go.
 
+## STATUS BOARD IS DISCONTINUED!
+Update November 2016: From now on, Status Board is history. Read more about it on the [Panic Blog](https://panic.com/blog/the-future-of-status-board/).
+
 ## How to use it
 1. Download **statusboard-facebook-likes.php** and change the URL in line 17 so that it points to your Facebook page's graph. (http://graph.facebook.com/YOURPAGENAME)
 2. Upload the file to your server.
